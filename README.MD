@@ -1,5 +1,5 @@
-# FRONTBACK PROJECT
-This is learning project for discipline "Frontend and Backend Development"
+# Проект
+Это учебный проект по дисциплине "Фронтенд и бэкэнд разработка"
 
-## Site information
-Link: https://emvyq.github.io/frontback/
+## Ссылки
+Ссылка на сайт: https://emvyq.github.io/frontback/
